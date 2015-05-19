@@ -1,1 +1,2 @@
-# ContactApp
+# MEANContactApp
+MongoDb + Express + AngularJs + NodeJs
